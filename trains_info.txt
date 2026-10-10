@@ -1,0 +1,4 @@
+12627|Karnataka Express|Bengaluru|New Delhi|5
+12760|Charminar Express|Hyderabad|Chennai|5
+17015|Visakha Express|Bhubaneswar|Hyderabad|5
+12628|Guntur Express|Guntur|Hyderabad|5
